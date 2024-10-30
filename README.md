@@ -9,4 +9,4 @@ A Single Page Application (SPA) showcasing core features of **React Router** inc
 - **React**
 - **React Router**
 - **JavaScript (ES6+)**
-- **CSS / Tailwind CSS** (or your chosen styling framework)
+- **CSS / Tailwind CSS / DaisyUI** 
