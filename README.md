@@ -13,4 +13,4 @@ A Single Page Application (SPA) showcasing core features of **React Router** inc
 
 ## Live link
 
-[https://react-router-concept.surge.sh/users](https://react-router-concept.surge.sh/users)
+[https://react-router-concept.surge.sh/](https://react-router-concept.surge.sh/)
