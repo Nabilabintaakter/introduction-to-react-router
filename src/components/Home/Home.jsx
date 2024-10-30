@@ -12,7 +12,7 @@ const Home = () => {
         <div className="container mx-auto">
             <Header></Header>
             {
-                navigation.state === 'loading' ? <p>Loading...</p> : <Outlet></Outlet>
+                navigation.state === 'loading' ? <div className="flex justify-center items-center h-screen pb-24"><p className="text-3xl font-medium italic">Loading...</p></div> : <Outlet></Outlet>
             }
 
             <Footer></Footer>
