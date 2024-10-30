@@ -1,8 +1,12 @@
-# React + Vite
+# React Router Concept
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Single Page Application (SPA) showcasing core features of **React Router** including Nested Routes, Dynamic Route Parameters, Programmatic Navigation, and custom error handling. The app is designed for smooth navigation and efficient data fetching.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- **React**
+- **React Router**
+- **JavaScript (ES6+)**
+- **CSS / Tailwind CSS** (or your chosen styling framework)
